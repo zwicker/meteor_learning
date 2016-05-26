@@ -20,3 +20,4 @@
 //     instance.counter.set(instance.counter.get() + 1);
 //   },
 // });
+// Meteor.subscribe('posts');
